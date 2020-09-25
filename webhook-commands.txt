@@ -1,3 +1,7 @@
+
+
+--->DONT forget to add the plugin (Github integration )
+
 Jenkins side:
 -------------
 1- install "github integration plugin" in jenkins
